@@ -48,7 +48,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "" + ({"0":"zh-CN0~zh-CN2~zh-CN3~zh-CN4~zh-CN5~zh-CN6","1":"DOCS zh-CN0","2":"DOCS zh-CN1","3":"DOCS zh-CN2","4":"DOCS zh-CN3","6":"zh-CN0","7":"zh-CN1","8":"zh-CN2","9":"zh-CN3","10":"zh-CN4","11":"zh-CN5","12":"zh-CN6"}[chunkId]||chunkId) + "." + "deb96e0d359e694f6690" + ".js"
+/******/ 		return __webpack_require__.p + "" + ({"0":"zh-CN0~zh-CN2~zh-CN3~zh-CN4~zh-CN5~zh-CN6","1":"DOCS zh-CN0","2":"DOCS zh-CN1","3":"DOCS zh-CN2","4":"DOCS zh-CN3","6":"zh-CN0","7":"zh-CN1","8":"zh-CN2","9":"zh-CN3","10":"zh-CN4","11":"zh-CN5","12":"zh-CN6"}[chunkId]||chunkId) + "." + "a70362f1aedfc6de6864" + ".js"
 /******/ 	}
 /******/
 /******/ 	// The require function
@@ -228,7 +228,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "/vue3-components/";
 /******/
 /******/ 	// on error function for async loading
 /******/ 	__webpack_require__.oe = function(err) { console.error(err); throw err; };

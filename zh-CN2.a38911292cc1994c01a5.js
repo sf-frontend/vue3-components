@@ -1,6 +1,6 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[8],{
 
-/***/ 261:
+/***/ 263:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -25,7 +25,7 @@ var vue_esm_browser = __webpack_require__(0);
 
 
 
-var _withId = /*#__PURE__*/Object(vue_esm_browser["P" /* withScopeId */])("data-v-76ec2db8");
+var _withId = /*#__PURE__*/Object(vue_esm_browser["O" /* withScopeId */])("data-v-76ec2db8");
 
 Object(vue_esm_browser["x" /* pushScopeId */])("data-v-76ec2db8");
 
@@ -112,30 +112,12 @@ var render = /*#__PURE__*/_withId(function (_ctx, _cache, $props, $setup, $data,
       })];
     }),
     _: 1
-  }), Object(vue_esm_browser["i" /* createVNode */])("h3", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[10]), 1), Object(vue_esm_browser["i" /* createVNode */])("ul", null, [Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[11]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[12]), 1
-  /* TEXT */
-  )]), Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[13]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[14]), 1
-  /* TEXT */
-  )])]), Object(vue_esm_browser["i" /* createVNode */])("h3", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[15]), 1), Object(vue_esm_browser["i" /* createVNode */])("ul", null, [Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[16]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[17]), 1
-  /* TEXT */
-  )]), Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[18]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[19]), 1
-  /* TEXT */
-  )])]), Object(vue_esm_browser["i" /* createVNode */])("h3", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[20]), 1), Object(vue_esm_browser["i" /* createVNode */])("ul", null, [Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[21]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[22]), 1
-  /* TEXT */
-  )]), Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[23]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[24]), 1
-  /* TEXT */
-  )]), Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[25]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[26]), 1
-  /* TEXT */
-  )])]), Object(vue_esm_browser["i" /* createVNode */])("h3", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[27]), 1), Object(vue_esm_browser["i" /* createVNode */])("ul", null, [Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[28]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[29]), 1
-  /* TEXT */
-  )]), Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[30]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[31]), 1
-  /* TEXT */
-  )])])]);
+  }), Object(vue_esm_browser["i" /* createVNode */])("h3", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[10]), 1), Object(vue_esm_browser["i" /* createVNode */])("ul", null, [Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[11]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[12]), 1)]), Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[13]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[14]), 1)])]), Object(vue_esm_browser["i" /* createVNode */])("h3", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[15]), 1), Object(vue_esm_browser["i" /* createVNode */])("ul", null, [Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[16]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[17]), 1)]), Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[18]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[19]), 1)])]), Object(vue_esm_browser["i" /* createVNode */])("h3", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[20]), 1), Object(vue_esm_browser["i" /* createVNode */])("ul", null, [Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[21]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[22]), 1)]), Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[23]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[24]), 1)]), Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[25]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[26]), 1)])]), Object(vue_esm_browser["i" /* createVNode */])("h3", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[27]), 1), Object(vue_esm_browser["i" /* createVNode */])("ul", null, [Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[28]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[29]), 1)]), Object(vue_esm_browser["i" /* createVNode */])("li", null, [Object(vue_esm_browser["i" /* createVNode */])("strong", null, Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[30]), 1), Object(vue_esm_browser["h" /* createTextVNode */])(Object(vue_esm_browser["G" /* toDisplayString */])($options.langConfig[31]), 1)])])]);
 });
 // CONCATENATED MODULE: ./website/pages/design.vue?vue&type=template&id=76ec2db8&scoped=true
 
 // EXTERNAL MODULE: ./website/i18n/page.json
-var page = __webpack_require__(271);
+var page = __webpack_require__(273);
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib!./node_modules/vue-loader/dist??ref--11-0!./website/pages/design.vue?vue&type=script&lang=js
 
@@ -158,7 +140,7 @@ var page = __webpack_require__(271);
 // CONCATENATED MODULE: ./website/pages/design.vue?vue&type=script&lang=js
  
 // EXTERNAL MODULE: ./website/pages/design.vue?vue&type=style&index=0&id=76ec2db8&lang=sass&scoped=true
-var designvue_type_style_index_0_id_76ec2db8_lang_sass_scoped_true = __webpack_require__(284);
+var designvue_type_style_index_0_id_76ec2db8_lang_sass_scoped_true = __webpack_require__(286);
 
 // CONCATENATED MODULE: ./website/pages/design.vue
 
@@ -173,11 +155,11 @@ designvue_type_script_lang_js.__scopeId = "data-v-76ec2db8"
 
 /***/ }),
 
-/***/ 275:
+/***/ 277:
 /***/ (function(module, exports, __webpack_require__) {
 
 var api = __webpack_require__(2);
-            var content = __webpack_require__(285);
+            var content = __webpack_require__(287);
 
             content = content.__esModule ? content.default : content;
 
@@ -198,18 +180,18 @@ module.exports = content.locals || {};
 
 /***/ }),
 
-/***/ 284:
+/***/ 286:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var _node_modules_style_loader_dist_cjs_js_node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_node_modules_vue_loader_dist_stylePostLoader_js_node_modules_sass_loader_dist_cjs_js_ref_4_3_node_modules_vue_loader_dist_index_js_ref_11_0_design_vue_vue_type_style_index_0_id_76ec2db8_lang_sass_scoped_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(275);
+/* harmony import */ var _node_modules_style_loader_dist_cjs_js_node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_node_modules_vue_loader_dist_stylePostLoader_js_node_modules_sass_loader_dist_cjs_js_ref_4_3_node_modules_vue_loader_dist_index_js_ref_11_0_design_vue_vue_type_style_index_0_id_76ec2db8_lang_sass_scoped_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(277);
 /* harmony import */ var _node_modules_style_loader_dist_cjs_js_node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_node_modules_vue_loader_dist_stylePostLoader_js_node_modules_sass_loader_dist_cjs_js_ref_4_3_node_modules_vue_loader_dist_index_js_ref_11_0_design_vue_vue_type_style_index_0_id_76ec2db8_lang_sass_scoped_true__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_cjs_js_node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_node_modules_vue_loader_dist_stylePostLoader_js_node_modules_sass_loader_dist_cjs_js_ref_4_3_node_modules_vue_loader_dist_index_js_ref_11_0_design_vue_vue_type_style_index_0_id_76ec2db8_lang_sass_scoped_true__WEBPACK_IMPORTED_MODULE_0__);
 /* unused harmony reexport * */
 
 
 /***/ }),
 
-/***/ 285:
+/***/ 287:
 /***/ (function(module, exports, __webpack_require__) {
 
 // extracted by mini-css-extract-plugin

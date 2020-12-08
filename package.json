@@ -24,7 +24,8 @@
     "website-build": "rimraf website-dist && cross-env NODE_ENV=production webpack --config ./website/webpack.config.js",
     "website-dev": "webpack-dev-server --config ./website/webpack.config.js",
     "website-dev:play": "cross-env PLAY_ENV=true yarn website-dev",
-    "upgrade:vue": "bash ./scripts/update-versions.sh"
+    "upgrade:vue": "bash ./scripts/update-versions.sh",
+    "deploy": "node scripts/deploy.js"
   },
   "peerDependencies": {
     "vue": "^3.0.3"
@@ -77,6 +78,7 @@
     "markdown-it-container": "^3.0.0",
     "mini-css-extract-plugin": "^0.11.2",
     "ora": "^5.1.0",
+    "puppeteer": "^2.1.1",
     "rimraf": "^3.0.2",
     "rollup": "^2.28.2",
     "rollup-plugin-css-only": "^2.1.0",

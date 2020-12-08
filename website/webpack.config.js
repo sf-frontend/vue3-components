@@ -18,7 +18,7 @@ const config = {
     : path.resolve(__dirname, './entry.js'),
   output: {
     path: path.resolve(__dirname, '../website-dist'),
-    publicPath: '/',
+    publicPath: isProd ? '/vue3-components/' : '/',
     filename: isProd ? '[name].[hash].js' : '[name].js',
   },
   stats: 'verbose',

@@ -1,0 +1,25 @@
+{
+  "name": "vic",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Herrington Darkholme <2883231+HerringtonDarkholme@users.noreply.github.com>",
+  "homepage": "https://github.com/element-plus/element-plus#readme",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/element-plus/element-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/element-plus/element-plus/issues"
+  },
+  "dependencies": {
+    "@vic/alert": "^0.0.0",
+    "@vic/backtop": "^0.0.0",
+    "@vic/col": "^0.0.0",
+    "@vic/infinite-scroll": "^0.0.0",
+    "@vic/loading": "^0.0.0",
+    "@vic/row": "^0.0.0",
+    "@vic/scrollbar": "^0.0.0"
+  }
+}

@@ -32,5 +32,7 @@
     "gulp-dart-sass": "^1.0.2",
     "gulp-rename": "^2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
 }

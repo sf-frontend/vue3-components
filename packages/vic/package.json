@@ -20,6 +20,7 @@
     "@vic/infinite-scroll": "^0.0.0",
     "@vic/loading": "^0.0.0",
     "@vic/row": "^0.0.0",
-    "@vic/scrollbar": "^0.0.0"
+    "@vic/scrollbar": "^0.0.0",
+    "puppeteer": "^5.5.0"
   }
 }

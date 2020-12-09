@@ -10,18 +10,18 @@ __webpack_require__.r(__webpack_exports__);
 // EXTERNAL MODULE: ./node_modules/vue/dist/vue.esm-browser.js
 var vue_esm_browser = __webpack_require__(0);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib!./node_modules/vue-loader/dist/templateLoader.js??ref--6!./node_modules/vue-loader/dist??ref--2-0!./website/md-loader!./website/docs/zh-CN/alert.md?vue&type=template&id=85c222bc
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib!./node_modules/vue-loader/dist/templateLoader.js??ref--6!./node_modules/vue-loader/dist??ref--2-0!./website/md-loader!./website/docs/zh-CN/alert.md?vue&type=template&id=deb52c4a
 
 var _hoisted_1 = {
   class: "content element-doc"
 };
 
 var _hoisted_2 = /*#__PURE__*/Object(vue_esm_browser["i" /* createVNode */])("h2", {
-  id: "alert-jing-gao"
+  id: "vialert-jing-gao"
 }, [/*#__PURE__*/Object(vue_esm_browser["i" /* createVNode */])("a", {
   class: "header-anchor",
-  href: "#alert-jing-gao"
-}, "¶"), /*#__PURE__*/Object(vue_esm_browser["h" /* createTextVNode */])(" Alert 警告")], -1);
+  href: "#vialert-jing-gao"
+}, "¶"), /*#__PURE__*/Object(vue_esm_browser["h" /* createTextVNode */])(" ViAlert 警告")], -1);
 
 var _hoisted_3 = /*#__PURE__*/Object(vue_esm_browser["i" /* createVNode */])("p", null, "用于页面中展示重要的提示信息。", -1);
 
@@ -128,7 +128,7 @@ var _hoisted_29 = /*#__PURE__*/Object(vue_esm_browser["i" /* createVNode */])("p
 
 var _hoisted_30 = /*#__PURE__*/Object(vue_esm_browser["g" /* createStaticVNode */])("<h3 id=\"attributes\"><a class=\"header-anchor\" href=\"#attributes\">¶</a> Attributes</h3><table><thead><tr><th>参数</th><th>说明</th><th>类型</th><th>可选值</th><th>默认值</th></tr></thead><tbody><tr><td>title</td><td>标题</td><td>string</td><td>—</td><td>—</td></tr><tr><td>type</td><td>主题</td><td>string</td><td>success/warning/info/error</td><td>info</td></tr><tr><td>description</td><td>辅助性文字。也可通过默认 slot 传入</td><td>string</td><td>—</td><td>—</td></tr><tr><td>closable</td><td>是否可关闭</td><td>boolean</td><td>—</td><td>true</td></tr><tr><td>center</td><td>文字是否居中</td><td>boolean</td><td>—</td><td>true</td></tr><tr><td>close-text</td><td>关闭按钮自定义文本</td><td>string</td><td>—</td><td>—</td></tr><tr><td>show-icon</td><td>是否显示图标</td><td>boolean</td><td>—</td><td>false</td></tr><tr><td>effect</td><td>选择提供的主题</td><td>string</td><td>light/dark</td><td>light</td></tr></tbody></table><h3 id=\"slot\"><a class=\"header-anchor\" href=\"#slot\">¶</a> Slot</h3><table><thead><tr><th>Name</th><th>Description</th></tr></thead><tbody><tr><td>—</td><td>描述</td></tr><tr><td>title</td><td>标题的内容</td></tr></tbody></table><h3 id=\"events\"><a class=\"header-anchor\" href=\"#events\">¶</a> Events</h3><table><thead><tr><th>事件名称</th><th>说明</th><th>回调参数</th></tr></thead><tbody><tr><td>close</td><td>关闭alert时触发的事件</td><td>—</td></tr></tbody></table>", 6);
 
-function alertvue_type_template_id_85c222bc_render(_ctx, _cache, $props, $setup, $data, $options) {
+function alertvue_type_template_id_deb52c4a_render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_element_demo0 = Object(vue_esm_browser["D" /* resolveComponent */])("element-demo0");
 
   var _component_demo_block = Object(vue_esm_browser["D" /* resolveComponent */])("demo-block");
@@ -221,7 +221,7 @@ function alertvue_type_template_id_85c222bc_render(_ctx, _cache, $props, $setup,
     _: 1
   }), _hoisted_30]);
 }
-// CONCATENATED MODULE: ./website/docs/zh-CN/alert.md?vue&type=template&id=85c222bc
+// CONCATENATED MODULE: ./website/docs/zh-CN/alert.md?vue&type=template&id=deb52c4a
 
 // EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/extends.js
 var helpers_extends = __webpack_require__(5);
@@ -471,7 +471,7 @@ var extends_default = /*#__PURE__*/__webpack_require__.n(helpers_extends);
 
 
 
-alertvue_type_script_lang_ts.render = alertvue_type_template_id_85c222bc_render
+alertvue_type_script_lang_ts.render = alertvue_type_template_id_deb52c4a_render
 
 /* harmony default export */ var zh_CN_alert = __webpack_exports__["default"] = (alertvue_type_script_lang_ts);
 
